@@ -4,7 +4,7 @@
 
 ## ABOUT ME
 I recently graduated from SRM University, AP, with a degree in computer science and Engineering, speicalising in AIML.
-I am currently pursuing a master's in computer science at University of North Texas.
+I am currently pursuing a master's degree in computer science at University of North Texas.
 
 
 <!--
