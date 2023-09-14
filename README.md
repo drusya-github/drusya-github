@@ -2,7 +2,9 @@
 ### I am Drusya. You can call me Dee!
 ![image](https://github.com/drusya-github/drusya-github/assets/106588056/21bd0474-f382-4d60-aefc-1ce7cec3012d)
 
-
+## ABOUT ME
+I recently graduated from SRM University, AP, with a degree in computer science and Engineering, speicalising in AIML.
+I am currently pursuing a master's in computer science at University of North Texas.
 
 
 <!--
